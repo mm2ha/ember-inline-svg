@@ -15,3 +15,17 @@
 /libpeerconnection.log
 npm-debug.log
 testem.log
+.idea/.name
+.idea/dictionaries/mhaugen.xml
+.idea/dictionaries/mm.xml
+.idea/ember-inline-svg.iml
+.idea/encodings.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/jsLibraryMappings.xml
+.idea/jsLinters/eslint.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
